@@ -19,6 +19,12 @@ p {
   line-height: 1.3em;
 }
 
+h5{
+  color: red;
+  font-size: 18px
+
+}
+
 a.button {
   display: block;
   width: 100%;
@@ -73,7 +79,7 @@ header nav a {
 }
 
 .underline {
-  border-bottom: 2px solid black;
+  border-bottom: 4px solid black;
 }
 
 .masthead {
@@ -119,7 +125,7 @@ header nav a {
 }
 
 img {
-  width: 100%; 
+  width: 85%; 
   border: 1px solid black; 
 }
 
